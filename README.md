@@ -1,3 +1,3 @@
 # CSS-Card-Hover-Trick
-<img src=''>
-<p>Updated: Sept 29, 2021</p>
+<img src='css-card-hover.gif'>
+<p>Updated: Oct 20, 2021</p>
